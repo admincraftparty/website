@@ -9,3 +9,7 @@ It's a server for members of the /r/admincraft discord, to hang out!
 ### Server Address
 
 admincraft.party
+
+### Map!
+
+http://map.admincraft.lightamaze.com
